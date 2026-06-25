@@ -23,3 +23,14 @@ torch
 transformers
 sentencepiece
 accelerate
+opencv-python
+opencv-python-headless
+
+streamlit
+numpy
+pandas
+PyWavelets
+scipy
+scikit-image
+Pillow
+imageio-ffmpeg
